@@ -11,7 +11,7 @@ g++ -g -framework OpenGL -framework GLUT -o out main.cpp math.cpp
 
 ## Step 1 Projection
 
-In the first step, we project a 3d object onto a 2d screen. The vertices, faces, and cameras are in the file `model.txt`. You can read the [instructions of this step](instructions/assignment.pdf) for more details.
+In the first step, we project a 3d object onto a 2d screen. The vertices, faces, and cameras are in the file `model.txt`. You can read the [instructions of this step](instructions/assignment_en.pdf) for more details.
 
 ![down](images/down.png)
 
